@@ -1,0 +1,9 @@
+c:\users\ieuser\documents\visual studio 2017\Projects\KafkaConsumer\KafkaConsumer\bin\Debug\netcoreapp1.1\KafkaConsumer.deps.json
+c:\users\ieuser\documents\visual studio 2017\Projects\KafkaConsumer\KafkaConsumer\bin\Debug\netcoreapp1.1\KafkaConsumer.runtimeconfig.json
+c:\users\ieuser\documents\visual studio 2017\Projects\KafkaConsumer\KafkaConsumer\bin\Debug\netcoreapp1.1\KafkaConsumer.runtimeconfig.dev.json
+c:\users\ieuser\documents\visual studio 2017\Projects\KafkaConsumer\KafkaConsumer\bin\Debug\netcoreapp1.1\KafkaConsumer.dll
+c:\users\ieuser\documents\visual studio 2017\Projects\KafkaConsumer\KafkaConsumer\obj\Debug\netcoreapp1.1\KafkaConsumer.csprojResolveAssemblyReference.cache
+c:\users\ieuser\documents\visual studio 2017\Projects\KafkaConsumer\KafkaConsumer\obj\Debug\netcoreapp1.1\KafkaConsumer.AssemblyInfo.cs
+c:\users\ieuser\documents\visual studio 2017\Projects\KafkaConsumer\KafkaConsumer\bin\Debug\netcoreapp1.1\KafkaConsumer.pdb
+c:\users\ieuser\documents\visual studio 2017\Projects\KafkaConsumer\KafkaConsumer\obj\Debug\netcoreapp1.1\KafkaConsumer.dll
+c:\users\ieuser\documents\visual studio 2017\Projects\KafkaConsumer\KafkaConsumer\obj\Debug\netcoreapp1.1\KafkaConsumer.pdb
